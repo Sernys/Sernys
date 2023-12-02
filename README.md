@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sernys Miranda Rivera,
+# 👋 Hello, I'm Sernys Miranda Rivera
 
 I'm deeply passionate about the world of data, with a focus on data analysis, visualization, statistical insights, and now, I'm diving into the crucial realm of data cleaning. 
 Currently, I'm expanding my skills in Advanced SQL and Python libraries like Pandas and Numpy for robust data manipulation.
@@ -19,7 +19,7 @@ Currently, I'm expanding my skills in Advanced SQL and Python libraries like Pan
 
 # 🚀 **Recent Projects**
 - **Data Visualization Dashboard:**
-  - Crafting an interactive data visualization dashboard using [Tool/Technology].
+  - Crafting an interactive data visualization dashboard Tableau.
   - Showcasing key insights and trends to make complex data more accessible.
 
 - **Data Cleaning and Transformation:**
